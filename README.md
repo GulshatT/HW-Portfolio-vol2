@@ -1,5 +1,4 @@
 # HW2-Portfolio-vol2
-# 02 Advanced CSS: Portfolio
 
 https://gulshatt.github.io/HW-Portfolio-vol2/
 
