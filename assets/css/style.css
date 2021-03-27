@@ -116,9 +116,9 @@ p {
 }
 .vl {
     border-left: 5px solid var(--black);
-    height: 830px;
+    height: 600px;
     position: absolute;
-    left: 25%;
+    left: 20%;
     margin-left: -3px;
     margin-top: 38%;
     top: 0;
@@ -187,8 +187,8 @@ p {
     display: inline;
 }*/
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 768px) {
     body {
-        min-width: 10rem;
+        min-width: 40rem;
     }
-  }
+}
