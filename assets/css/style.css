@@ -130,7 +130,7 @@ p {
 }
 
 .content_img:hover {
-    background-color: var(--darkgrey);
+    background-color:yellow;
     border-radius: 10%;
 }
 
