@@ -107,13 +107,13 @@ p {
 .work-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: auto;
     padding-top: 50px;
     padding-bottom: 80px;
 }
 .vl {
     border-left: 5px solid var(--black);
-    height: 620px;
+    height: 940px;
     position: absolute;
     left: 20%;
     margin-left: -3px;
